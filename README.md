@@ -1,4 +1,8 @@
-## Acer Nitro 5 EFI
+# Acer Nitro 5 EFI
+
+## This EFI is a proof of concept. Do not use it as your daily driver. It has several issues that will probably not be fixed. Most things are untested. Make your own EFI if you need to daily drive it. I am not responsible for any damage caused by the contents in this Github repository. 
+
+# You are on your own.
 
 ### Specs
 ```
@@ -69,4 +73,7 @@ no clue, havent installed. it boots to the installer though
 - keyboard
 - trackpad 
 - dGPU
+- no clue 
+
+
 

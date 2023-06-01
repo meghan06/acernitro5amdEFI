@@ -67,7 +67,12 @@
 
 ```
 ### What works
-no clue, havent installed. it boots to the installer though
+- wifi
+- usb
+- nvme drive
+- i only booted the installer so idk about anything else
+
+
 
 ### What does not work
 - keyboard
